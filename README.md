@@ -22,4 +22,4 @@ The generator uses a custom algorithm to shuffle and combine characters/numbers 
 
 ## 👤 Author
 - **University:** Al-Quds Open University
-- **Field:** Computer Science
+- **Field:** Computer Information Systems
